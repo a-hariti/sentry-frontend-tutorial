@@ -1,7 +1,6 @@
 {
-  "name": "new",
-  "private": true,
-  "version": "0.0.0",
+  "name": "frontend-tutorial",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -26,5 +25,6 @@
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.24.1",
     "vite": "^6.2.0"
-  }
+  },
+  "license": "MIT"
 }
